@@ -19,7 +19,7 @@ QR code component solution
 
 ### Links
 
-- [Live Site URL]: (https://your-live-site-url.com)
+- [Live Site URL](https://maxzarubin.github.io/qr-code-component/)
 
 ## My process
 
@@ -31,9 +31,9 @@ QR code component solution
 
 ### Useful resources
 
-- Google Fonts: [](https://fonts.google.com/specimen/Outfit) - This helped me in my work.
+- Google Fonts: [https://fonts.google.com/specimen/Outfit](https://fonts.google.com/specimen/Outfit) - This helped me in my work.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor Profile Link - [@MaxZarubin](https://www.frontendmentor.io/profile/MaxZarubin)
 
